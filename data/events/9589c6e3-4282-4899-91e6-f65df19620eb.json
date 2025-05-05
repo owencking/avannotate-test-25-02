@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "169b614f-55b8-4a10-a9ff-f0d077f946dd": {
+      "label": "cpb-aacip-b45eb62bd60",
+      "is_offline": false,
+      "file_url": "https://aapb-avannotate.s3.us-east-1.amazonaws.com/av/cpb-aacip-b45eb62bd60.mp4",
+      "duration": 1629,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "New Mexico In Focus"
+        }
+      ]
+    }
+  ],
+  "citation": "https://americanarchive.org/catalog/cpb-aacip-b45eb62bd60",
+  "item_type": "Video",
+  "label": "Microcredit",
+  "created_at": "2025-05-05T21:35:51.409Z",
+  "created_by": "owencking",
+  "updated_at": "2025-05-05T21:35:51.409Z",
+  "updated_by": "owencking"
+}
