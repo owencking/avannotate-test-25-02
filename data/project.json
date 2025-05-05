@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "owencking",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92190360?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "owencking",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-05-05T21:32:10.565Z",
-    "updated_at": "2025-05-05T21:32:10.565Z"
-  }
+    "updated_at": "2025-05-05T21:32:10.565Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "4d637a05-555f-433d-820d-400013dbe5ce": {
+      "content": [],
+      "created_at": "2025-05-05T21:32:10.584Z",
+      "created_by": "owencking",
+      "title": "GBH AVAnnotate test 25-02",
+      "updated_at": "2025-05-05T21:32:10.584Z",
+      "updated_by": "owencking",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "4d637a05-555f-433d-820d-400013dbe5ce"
+  ]
 }
