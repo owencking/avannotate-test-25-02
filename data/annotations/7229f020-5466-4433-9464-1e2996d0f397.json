@@ -1,5 +1,321 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 14,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " bars"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "0b89ff29-2d10-4718-be63-f67efda17541"
+    },
+    {
+      "start_time": 73,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " slate"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "5eed090d-7c39-4ddd-9e80-cadf21ca1990"
+    },
+    {
+      "start_time": 94,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " other_opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "7140fb6b-a103-48fd-b747-0d59bb48818f"
+    },
+    {
+      "start_time": 136,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " other_opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "b85823f4-0f1c-4ec2-9aff-d5b2a1d8b395"
+    },
+    {
+      "start_time": 152,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "581db8d0-4add-4a81-a643-4b121828287a"
+    },
+    {
+      "start_time": 410,
+      "end_time": 413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " other_text"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "028af491-daf6-4e98-bcd5-b0715832ee53"
+    },
+    {
+      "start_time": 456,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "6d011de9-d218-4593-ac32-62fea5270e23"
+    },
+    {
+      "start_time": 558,
+      "end_time": 566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "dc65840a-da17-4cca-accc-82c91969d96b"
+    },
+    {
+      "start_time": 683,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "95b526af-5112-4570-b1b6-7d6df801e6f9"
+    },
+    {
+      "start_time": 801,
+      "end_time": 806,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "184e6ac0-2f84-4512-b902-8d02da9330f5"
+    },
+    {
+      "start_time": 988,
+      "end_time": 993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "0c6d6560-1d5a-4819-bf09-6f77f88974ab"
+    },
+    {
+      "start_time": 1088,
+      "end_time": 1090,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "f6009151-2006-4734-92f3-b2113b0a70a2"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "6f9c0ad7-0fbe-4e91-b2ec-91fa1209b298"
+    },
+    {
+      "start_time": 1547,
+      "end_time": 1568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " other_opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "edeaeedf-d56f-41f4-80b5-05fede8f4e3d"
+    },
+    {
+      "start_time": 1569,
+      "end_time": 1623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " credit"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SWT"
+        }
+      ],
+      "uuid": "af84e370-d9b9-45f5-a98e-eaf88d443f90"
+    }
+  ],
   "set": "Default",
   "event_id": "9589c6e3-4282-4899-91e6-f65df19620eb",
   "source_id": "169b614f-55b8-4a10-a9ff-f0d077f946dd"
