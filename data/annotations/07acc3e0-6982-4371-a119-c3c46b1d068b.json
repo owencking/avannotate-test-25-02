@@ -1,5 +1,127 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2219,
+      "end_time": 2220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clip Begins: The Complex Impact of Globalization on Alabama Communities"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "clip begins"
+        }
+      ],
+      "uuid": "78c4f3c5-8eda-434b-af75-d660a689e163"
+    },
+    {
+      "start_time": 2220,
+      "end_time": 2222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An earlier portion of this report included footage from a 1993 NewsHour report in which about an Autaugaville, Alabama factory that seemed doomed to go out of business after NAFTA. After all, the corn brooms that the company produced would lose tariff protections once the deal was enacted. However, the report explains that the impact on the company was less dramatic, though still significant. It now operated with around 100 workers, less than half the number of pre-NAFTA employees, and now the mop yarn and broom parts used at the factory come from Pakistan and China rather than the USA. As Factory President Ed Pearson put it, “Ironically, the Chinese are saving jobs in this factory from Mexico.”"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "36a17128-ec52-4c04-82c8-70cbfad829dd"
+    },
+    {
+      "start_time": 2325,
+      "end_time": 2345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The impact of automation of the manufacturing sector is often understated in political debates about globalization. Consider this chart comparing the real (adjusted for inflation) monetary value of manufacturing output vs. the number of employees in the manufacturing sector. As the chart shows, manufacturing employment has fallen by more than 40% since its peak in 1980, an outcome that has been blamed on globalization. However, the value of manufacturing output has continued to climb since 1980. Thus, terms like “deindustrialization” can be slightly misleading as manufacturing production continues to increase. However, the US manufacturing sector is, put simply, making more things with fewer workers. Automation is a crucial element in this story. Factory robots like the ones pictured in this piece do much of the labor that human factory workers once did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "6b4b141e-31e6-4dc7-b66b-c0d50598484c"
+    },
+    {
+      "start_time": 2394,
+      "end_time": 2404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The quote in this portion effectively summarizes a core feature of the political debate surrounding globalization: “the losers are always concentrated, and the losers tend to be vocal and the winners tend to be dispersed in the population.” If indeed there is a policy in which the country benefits as a whole, but results in a minority of citizens becoming worse off, what ought the government to do?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "760a5765-7634-4243-bc08-8f3467a52de0"
+    },
+    {
+      "start_time": 2533,
+      "end_time": 2550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This portion of the clip shows why unemployment rates can be an insufficient way to understand the impact of globalization on American workers. This chart, based on data from the left-of-center Economic Policy Institute, shows that while wages of college graduates have grown since 1979, high school graduates and those who did not finish high school have seen real wages decline in recent decades. While globalization is not the only reason for the stagnation of working-class wages, many economists (like David Autor of MIT) have argued that global competition from countries like China play a significant role in reducing opportunity for American workers with less formal education."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "3179bd4e-c1ee-4783-bf02-77b8fa3efe47"
+    },
+    {
+      "start_time": 2551,
+      "end_time": 2552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "End of clip: The Complex Impact of Globalization on Alabama Communities"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "clip ends"
+        }
+      ],
+      "uuid": "59059344-fdb3-4d8f-aaa6-7f7862fdf461"
+    }
+  ],
   "set": "Default",
   "event_id": "74547c59-fc9f-4936-8391-5f0f8223178a",
   "source_id": "fba68325-bd5c-4489-8faf-72dd139b2a25"
