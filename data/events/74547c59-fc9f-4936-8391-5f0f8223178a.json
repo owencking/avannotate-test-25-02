@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "fba68325-bd5c-4489-8faf-72dd139b2a25": {
+      "label": "newshour-8",
+      "is_offline": false,
+      "file_url": "https://aapb-avannotate.s3.us-east-1.amazonaws.com/av/cpb-aacip-507-nk3610wm67.mp4",
+      "duration": 3858,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "News Hour 2005"
+        }
+      ]
+    }
+  ],
+  "citation": "https://americanarchive.org/catalog/cpb-aacip-507-nk3610wm67",
+  "item_type": "Video",
+  "label": "News Hour 2005",
+  "created_at": "2025-05-13T20:36:38.106Z",
+  "created_by": "owencking",
+  "updated_at": "2025-05-13T20:36:38.106Z",
+  "updated_by": "owencking"
+}

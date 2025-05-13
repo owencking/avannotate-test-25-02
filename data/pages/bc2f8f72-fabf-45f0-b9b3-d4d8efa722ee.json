@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-05-13T20:36:38.326Z",
+  "created_by": "owencking",
+  "title": "News Hour 2005",
+  "slug": "news-hour-2005",
+  "updated_at": "2025-05-13T20:36:38.326Z",
+  "updated_by": "owencking",
+  "parent": "4d637a05-555f-433d-820d-400013dbe5ce",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "74547c59-fc9f-4936-8391-5f0f8223178a"
+  }
+}
