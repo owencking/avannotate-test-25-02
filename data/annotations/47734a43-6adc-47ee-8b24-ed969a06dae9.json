@@ -1,5 +1,1286 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "slate"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e18bd741-b00a-41e0-8266-d018231ec410"
+    },
+    {
+      "start_time": 17,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fd22ee5c-3458-4b98-be62-2a25d97556e7"
+    },
+    {
+      "start_time": 89,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e91dfcf-196e-4afe-8cd7-c079441f2457"
+    },
+    {
+      "start_time": 119,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ebc1417e-4cc9-4434-9dc5-1c79be80544d"
+    },
+    {
+      "start_time": 152,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "main title"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f7a9fef5-02af-4a57-9aa1-8448d09677cf"
+    },
+    {
+      "start_time": 248,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "905a2a09-6c51-4b67-b952-d1b8e18ca5f9"
+    },
+    {
+      "start_time": 258,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b314eb18-e191-43fe-a000-14858ad25a41"
+    },
+    {
+      "start_time": 295,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "slate"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3c835074-a364-4a83-8e5e-eee4cff28979"
+    },
+    {
+      "start_time": 332,
+      "end_time": 341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "57ec16e6-a069-432e-80ec-5fea691ad8a4"
+    },
+    {
+      "start_time": 354,
+      "end_time": 374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "70feaa09-835b-4774-9e01-af607dd04312"
+    },
+    {
+      "start_time": 414,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "filmed text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "577c5ba9-08d2-4ae9-aeb4-ef257e5c0e45"
+    },
+    {
+      "start_time": 480,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f58ae5be-e08b-4c6c-9737-7e168a03aec7"
+    },
+    {
+      "start_time": 522,
+      "end_time": 535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "402fd045-388f-47c5-9bd7-40274f1eee68"
+    },
+    {
+      "start_time": 616,
+      "end_time": 628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ac439b20-72c1-4fd8-ab24-1cf997a86141"
+    },
+    {
+      "start_time": 758,
+      "end_time": 777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "871f3beb-c207-408e-a63a-baca7708cf08"
+    },
+    {
+      "start_time": 934,
+      "end_time": 941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2f690c7e-35a5-4720-a439-5e5a1132fcc6"
+    },
+    {
+      "start_time": 949,
+      "end_time": 1009,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d020464c-f88e-4727-b9dc-dfa0e75d8240"
+    },
+    {
+      "start_time": 1016,
+      "end_time": 1055,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b9f0c303-bf83-44dc-a349-ad22fd73903f"
+    },
+    {
+      "start_time": 1218,
+      "end_time": 1240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "359f1a34-8027-47aa-bf9b-d53eba1cf6e6"
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bfb6c66a-0f19-41e0-9d91-b2db0c0cb5e6"
+    },
+    {
+      "start_time": 1271,
+      "end_time": 1282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7fe08d77-ab2f-4229-9017-2ec89392a802"
+    },
+    {
+      "start_time": 1286,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "97d68643-4564-4364-b63f-e3b2ac425bca"
+    },
+    {
+      "start_time": 1317,
+      "end_time": 1321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "990177f1-f451-45ea-bfe7-1b468682e0a5"
+    },
+    {
+      "start_time": 1356,
+      "end_time": 1363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ffcd9e72-06b5-4eac-ac53-c9e6a6b61218"
+    },
+    {
+      "start_time": 1466,
+      "end_time": 1485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90ce390c-e2fe-40d8-9998-58d7c2069994"
+    },
+    {
+      "start_time": 1573,
+      "end_time": 1588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "68fc0f51-c3b9-4caf-aa21-bafbef4e8146"
+    },
+    {
+      "start_time": 1591,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c7084b7c-88b7-4284-bf8f-5a663371158b"
+    },
+    {
+      "start_time": 1606,
+      "end_time": 1609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "11af553d-ea52-434a-af76-a167228e20f2"
+    },
+    {
+      "start_time": 1677,
+      "end_time": 1683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "48c2c7b0-334d-43ed-85d9-45f593a03755"
+    },
+    {
+      "start_time": 1749,
+      "end_time": 1753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25a86783-87bd-4b9f-a98b-a9ac77ca869a"
+    },
+    {
+      "start_time": 1811,
+      "end_time": 1816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "filmed text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1709d11a-0c54-4800-bd23-845013e8b795"
+    },
+    {
+      "start_time": 1831,
+      "end_time": 1838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e76ebc9-e079-4aff-bd14-9d2b0005d249"
+    },
+    {
+      "start_time": 1849,
+      "end_time": 1857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "42f7f3da-df1c-455d-9731-b0e947e69443"
+    },
+    {
+      "start_time": 1872,
+      "end_time": 1893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5036d910-18b7-40ac-af75-090928e26da5"
+    },
+    {
+      "start_time": 1921,
+      "end_time": 1926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9654b9ae-1997-4c78-8f85-f44e6588acb3"
+    },
+    {
+      "start_time": 1928,
+      "end_time": 1936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0232cc8a-0015-4620-8929-9bbaae7189c6"
+    },
+    {
+      "start_time": 1937,
+      "end_time": 1949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "75596a9c-bad3-4ac8-ba1d-e072ba6955d3"
+    },
+    {
+      "start_time": 1955,
+      "end_time": 1961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "filmed text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ae13fc0-89fc-4883-8e36-e69a6d05a049"
+    },
+    {
+      "start_time": 2006,
+      "end_time": 2011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "60c30863-0006-473a-9430-c080f7063efd"
+    },
+    {
+      "start_time": 2080,
+      "end_time": 2085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c5f94377-822e-49bf-8d02-ce00ea68fd81"
+    },
+    {
+      "start_time": 2116,
+      "end_time": 2120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2a022f0e-7481-4376-92e8-2ef5316ff8b6"
+    },
+    {
+      "start_time": 2141,
+      "end_time": 2144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d16adc01-8f46-4e37-b487-cf135b4622aa"
+    },
+    {
+      "start_time": 2264,
+      "end_time": 2271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "13595f55-75cc-4bc2-aefd-63797f7cbe37"
+    },
+    {
+      "start_time": 2307,
+      "end_time": 2311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e43f01d6-3d74-478a-a0e3-2bc916d245f8"
+    },
+    {
+      "start_time": 2312,
+      "end_time": 2317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cf86a504-d721-4779-9c36-971701348d61"
+    },
+    {
+      "start_time": 2371,
+      "end_time": 2379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7f37a78e-201d-4aa8-9c68-6099d3c592e7"
+    },
+    {
+      "start_time": 2383,
+      "end_time": 2389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ecdf3f63-e7a9-44da-82d6-a16ef5fcdcbc"
+    },
+    {
+      "start_time": 2428,
+      "end_time": 2434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7fbf91b5-7973-4b6f-88ff-2e01a07314a2"
+    },
+    {
+      "start_time": 2440,
+      "end_time": 2446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "filmed text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7d1f0003-ee48-4739-bc03-f2083972749f"
+    },
+    {
+      "start_time": 2462,
+      "end_time": 2466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6b077c49-4734-4a56-834b-e20b5154022f"
+    },
+    {
+      "start_time": 2502,
+      "end_time": 2507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aad146bb-ae45-4334-abf1-2341a997aae2"
+    },
+    {
+      "start_time": 2559,
+      "end_time": 2570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ba79c8ed-49f4-49c7-a615-f499ef9d4b7b"
+    },
+    {
+      "start_time": 2606,
+      "end_time": 2611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "68181d60-bf69-445d-966e-e14a4fbc511c"
+    },
+    {
+      "start_time": 2630,
+      "end_time": 2637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "24dd9019-81e8-403b-8c82-755e40520224"
+    },
+    {
+      "start_time": 2642,
+      "end_time": 2646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "filmed text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b4f7d1f4-4d0d-447c-98a8-969541fdd747"
+    },
+    {
+      "start_time": 2688,
+      "end_time": 2694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "87f5ffa3-7183-4395-95f1-dc4c8e99e9b2"
+    },
+    {
+      "start_time": 2748,
+      "end_time": 2750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "filmed text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e0ba3a1-c293-4983-a2e4-9d42da4a8415"
+    },
+    {
+      "start_time": 2760,
+      "end_time": 2768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fe2d70f3-cb91-4ce4-b76d-df12ca54c98a"
+    },
+    {
+      "start_time": 2790,
+      "end_time": 2802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f25036fc-dfff-47a8-bc55-06e686e58ceb"
+    },
+    {
+      "start_time": 2805,
+      "end_time": 2824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3bcadebc-6ce4-4bf6-b7b4-9649447ea7f5"
+    },
+    {
+      "start_time": 2854,
+      "end_time": 2868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b9d3f28e-13d3-4157-976a-76e82b542888"
+    },
+    {
+      "start_time": 2928,
+      "end_time": 2936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "70f2be35-d008-4fb2-89ad-39ff3e9744ca"
+    },
+    {
+      "start_time": 3023,
+      "end_time": 3042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8df49749-ce02-4a35-aa73-227353968472"
+    },
+    {
+      "start_time": 3046,
+      "end_time": 3066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dc6bd9c1-0fd5-48a1-ab5b-50b14027d63b"
+    },
+    {
+      "start_time": 3139,
+      "end_time": 3159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7b381896-3526-440d-b18e-81d571093eb8"
+    },
+    {
+      "start_time": 3203,
+      "end_time": 3211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "59198b73-ab7b-4a49-a963-06b9d622c660"
+    },
+    {
+      "start_time": 3263,
+      "end_time": 3292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "968af70c-ba15-4ebb-a979-516b4e3d15eb"
+    },
+    {
+      "start_time": 3297,
+      "end_time": 3307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b7fb6cd0-b3e7-434b-a0cb-103d5cdabc7e"
+    },
+    {
+      "start_time": 3329,
+      "end_time": 3340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e58ceec3-d159-4fe2-8eb6-86b9770b0fe3"
+    },
+    {
+      "start_time": 3357,
+      "end_time": 3416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c0a55f4b-b01d-490e-8ea4-a651d49a4a2f"
+    },
+    {
+      "start_time": 3557,
+      "end_time": 3587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "bars"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "100e8d59-e155-465d-a5cd-e1578c314967"
+    },
+    {
+      "start_time": 3597,
+      "end_time": 3614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "161e8952-d157-4dd1-a48e-2cf7653187c3"
+    },
+    {
+      "start_time": 3617,
+      "end_time": 3666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "584a5c58-1bb7-4382-97eb-b7e086ed9da6"
+    },
+    {
+      "start_time": 3688,
+      "end_time": 3696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "other text"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "21921fbb-ef73-4f6e-989d-fa175b5b8d3c"
+    },
+    {
+      "start_time": 3702,
+      "end_time": 3704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "credits"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6614dab0-bce2-4308-b3dd-69d8a292ee76"
+    },
+    {
+      "start_time": 3707,
+      "end_time": 3710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "credits"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eb36b309-0111-4a22-8f27-73df8cab26aa"
+    },
+    {
+      "start_time": 3720,
+      "end_time": 3728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "credits"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bf993fb5-544b-461d-968c-046812f22119"
+    },
+    {
+      "start_time": 3730,
+      "end_time": 3742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "credits"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aaad3016-5bb6-4a48-9813-5cf6e28b5314"
+    },
+    {
+      "start_time": 3806,
+      "end_time": 3813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "credits"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b9572c2c-cf82-481d-8091-6ca8a7a3b309"
+    },
+    {
+      "start_time": 3825,
+      "end_time": 3830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "chyron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7f5e4f05-20bf-4975-a3e3-65a349247e11"
+    }
+  ],
   "event_id": "74547c59-fc9f-4936-8391-5f0f8223178a",
   "set": "SWT",
   "source_id": "fba68325-bd5c-4489-8faf-72dd139b2a25"
